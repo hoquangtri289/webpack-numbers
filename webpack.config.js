@@ -5,6 +5,9 @@ export default {
     output: {
         path: path.resolve(__dirname, "dist"),
         filename: 'webpack-number.js',
-        library: "webpackNumbers"
+        library: {
+            name: "webpackNumbers",
+            type: "umd"
+        }
     }
 }
