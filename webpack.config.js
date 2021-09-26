@@ -8,6 +8,7 @@ module.exports = {
         library: {
             name: "webpackNumbers",
             type: "umd"
-        }
+        },
+        clean: true
     }
 }
