@@ -1,0 +1,28 @@
+{
+  "name": "webpack-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Hồ Quang Trí",
+    "email": "hoquangtri289@gmail.com",
+    "url": "https://chuyennhatoanphat.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoquangtri289/webpack-numbers.git"
+  },
+  "homepage": "https://github.com/hoquangtri289/webpack-numbers.git#readme",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.54.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
